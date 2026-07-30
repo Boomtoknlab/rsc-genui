@@ -14,7 +14,7 @@
     "@vercel/kv": "^3.0.0",
     "ai": "^3.3.20",
     "d3-scale": "^4.0.2",
-    "framer-motion": "^11.3.19",
+    "framer-motion": "^12.0.0",
     "next": "14.2.5",
     "react": "^18",
     "react-dom": "^18",
